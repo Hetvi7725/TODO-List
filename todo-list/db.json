@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "TodoData": [
+    {
+      "id": "6436",
+      "name": "Mansi",
+      "task": "javascript",
+      "date": "2024-04-11",
+      "type": "Friend"
+    },
+    {
+      "id": "1128",
+      "name": "Hetvi",
+      "task": "React js",
+      "date": "2024-04-08",
+      "type": "Personal"
+    },
+    {
+      "id": "cf54",
+      "name": "dhruti",
+      "task": "front end",
+      "date": "2024-04-02",
+      "type": "Office"
+    },
+    {
+      "id": "54b9",
+      "name": "madhvi",
+      "task": "back end",
+      "date": "2024-04-26",
+      "type": "Office"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

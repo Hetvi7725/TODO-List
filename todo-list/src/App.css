@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.todo{
+  border: 2px solid white;
+  color: white;
+  padding: 40px;
+  width: 300px;
+}
+input , select{
+  width: 90%;
+  padding: 10px;
+  border-radius: 10px;
+}
